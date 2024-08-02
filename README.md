@@ -12,4 +12,4 @@ Welcome to the public repository for DevTools. This repository provides an overv
 ![Sample Category 2](https://github.com/user-attachments/assets/f51b86c8-9243-4c8b-b817-a8a9710b819f)
 
 For the complete source code and development details, please refer to the private repository (access granted to authorized users only): 
-[[DevTools - Private Source Code](https://github.com/jaynevernice/devtools.git)
+[DevTools - Private Source Code](https://github.com/jaynevernice/devtools.git)
